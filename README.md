@@ -33,6 +33,8 @@ Presentación del proyecto y sus funcionalidades. El código fuente se mantiene 
 
 ![pagina web1](<Captura de pantalla 2026-10-12 232403.png>)
 
-![pagina web(<Captura de pantalla 2026-10-12 232429.png>)
 
-![pagina web (<Captura de pantalla 2026-10-12 232535.png>)
+
+![Página web](<Captura de pantalla 2026-10-12 232429.png>)
+
+![Página web](<Captura de pantalla 2026-10-12 232535.png>)
